@@ -1,0 +1,2381 @@
+[0210/124634:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/125944:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/125944:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0210/125944:WARNING:channel.cc(358)] RawChannel write error
+[0210/130455:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/130907:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/131306:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/131455:ERROR:webgraphicscontext3d_command_buffer_impl.cc(208)] CommandBufferProxy::Initialize failed.
+[0210/131455:ERROR:webgraphicscontext3d_command_buffer_impl.cc(227)] Failed to initialize command buffer.
+[0210/131503:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/131858:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/132508:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0210/132806:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/132856:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0210/132856:WARNING:channel.cc(358)] RawChannel write error
+[0210/133146:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/133339:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/133413:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/133413:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0210/133413:WARNING:channel.cc(358)] RawChannel write error
+[0210/133834:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/141509:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/141952:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0210/141952:WARNING:channel.cc(358)] RawChannel write error
+[0210/142449:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0210/142449:WARNING:channel.cc(358)] RawChannel write error
+[0210/142515:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/142515:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0210/142515:WARNING:channel.cc(358)] RawChannel write error
+[0210/143117:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/143335:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/143401:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/143436:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/145259:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0210/150650:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0211/191647:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0211/192750:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0211/192750:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0211/192750:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0211/192750:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0211/192846:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0211/193500:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0211/193538:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0211/193538:WARNING:channel.cc(358)] RawChannel write error
+[0211/193740:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0211/194053:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0211/194053:WARNING:channel.cc(358)] RawChannel write error
+[0211/194221:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0211/194310:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0212/195759:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0212/195759:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0212/195759:WARNING:channel.cc(358)] RawChannel write error
+[0212/195923:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0217/115809:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0419/115529:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0419/120151:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0419/120413:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0419/120739:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0419/124134:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0419/124929:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0419/150155:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150155:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150156:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150156:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150159:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150200:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150201:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/150202:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/151728:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0419/165638:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0419/173418:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0419/173419:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0419/173745:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0419/201848:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/111112:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/111148:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/112541:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/112652:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/112829:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/112937:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/113215:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/113557:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/114615:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/114702:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/114913:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/115017:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/115758:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/122313:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/123717:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/124939:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/125714:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/125829:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/125829:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00421E88]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/131610:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/131610:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0420/131722:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/143607:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0420/143608:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0420/143614:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0420/143615:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0420/144025:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/144025:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0420/144025:WARNING:channel.cc(358)] RawChannel write error
+[0420/144142:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/144515:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/150950:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/153040:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/153215:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/162012:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/162737:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0420/183406:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0420/183408:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0420/183412:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0420/183413:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0420/183414:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0421/111209:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0421/111301:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0421/113827:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0421/155610:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006CE178]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0421/160031:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0421/162500:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0421/162708:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0421/170816:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0421/170859:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0421/171413:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0421/171434:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0422/113401:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/113403:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/122738:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/122740:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/122808:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/122810:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/122828:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/122829:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/122855:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/122857:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0422/192742:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0422/193237:ERROR:webgraphicscontext3d_command_buffer_impl.cc(208)] CommandBufferProxy::Initialize failed.
+[0422/193237:ERROR:webgraphicscontext3d_command_buffer_impl.cc(227)] Failed to initialize command buffer.
+[0422/193242:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0422/193525:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0422/193913:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/104744:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/104945:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/105003:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/105149:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/105816:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/105901:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/110020:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/110142:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/110329:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/110417:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/110435:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/110531:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/110556:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0425/110556:WARNING:channel.cc(358)] RawChannel write error
+[0425/110754:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/144909:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/150503:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/150503:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00566A40]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0425/150706:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/151048:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/152525:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/152708:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/163106:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/163358:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/164543:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/164558:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0425/164558:WARNING:channel.cc(358)] RawChannel write error
+[0425/165424:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0425/165424:WARNING:channel.cc(358)] RawChannel write error
+[0425/165424:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/165636:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0425/165637:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0425/165823:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/170033:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/172519:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/172737:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/172824:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/174030:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/174127:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/174958:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/174958:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0425/174958:WARNING:channel.cc(358)] RawChannel write error
+[0425/175058:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0425/181744:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0426/112833:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/113402:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/115747:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/124156:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/124156:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0426/124712:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004A0CF8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0426/125935:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/130318:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/130535:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/130804:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0063F898]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0426/130939:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00487898]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0426/154312:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0426/154549:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/154549:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00740A18]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0426/175018:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-003A78E8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0426/175148:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0426/175148:WARNING:channel.cc(358)] RawChannel write error
+[0426/190825:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/191151:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/191913:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0426/192351:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0426/192351:WARNING:channel.cc(358)] RawChannel write error
+[0426/192351:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/193211:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/193211:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0426/193211:WARNING:channel.cc(358)] RawChannel write error
+[0426/193437:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/193437:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0426/193437:WARNING:channel.cc(358)] RawChannel write error
+[0426/202717:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0426/204056:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0427/110941:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0427/111018:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/110818:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/112707:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/112713:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/114212:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/114546:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/114621:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/115103:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/115140:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/115400:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0428/115648:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/143812:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/145709:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/151018:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0084E488]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0428/151919:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/152420:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/152941:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/153052:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/153209:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/153326:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/153327:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0428/153945:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/154351:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/161443:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/161528:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/174152:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/174350:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/175649:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/175815:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/180204:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/180233:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/181333:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0428/181333:WARNING:channel.cc(358)] RawChannel write error
+[0428/182028:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/182312:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/182615:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/183023:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/183920:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0428/184403:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/184442:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/184546:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/184645:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/184718:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0428/184718:WARNING:channel.cc(358)] RawChannel write error
+[0428/184718:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/190848:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/193550:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0428/194018:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/104811:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/104903:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/104903:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005ABE18]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0429/181654:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/190903:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/191105:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/191626:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/192219:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/192637:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/192847:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0429/193445:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/121438:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/122058:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/122216:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/122844:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/123323:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/124435:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/124835:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/125047:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/125559:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/144341:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/144721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00261858]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0502/145102:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/152910:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/161910:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/162729:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/164733:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/170636:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/195104:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0502/195443:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0503/114708:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0503/114745:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0503/114952:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0503/115340:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0503/115620:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0503/115620:WARNING:channel.cc(358)] RawChannel write error
+[0503/115840:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0503/120920:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0503/194618:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0503/194636:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0503/194808:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/160956:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/162120:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/162120:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006C7AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0504/163316:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/164808:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/164952:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/165253:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/172038:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/172633:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/173949:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/174319:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/174424:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/174921:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/175503:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/175858:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/180012:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/180807:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0054FE98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0504/183131:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006813D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0504/183322:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/184548:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/185058:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/185058:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0086DA50]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0504/185250:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/185250:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0504/191117:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0504/203013:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0509/113010:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/160120:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0510/183510:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/184115:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/184604:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/184705:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/185223:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/185452:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/185728:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/190108:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/190155:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/190215:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/190740:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/191114:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0510/191932:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/111816:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/111825:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/140233:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/140737:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/141116:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/141116:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006CA9C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141116:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006CA9C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141116:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006CA9C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141116:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006CA9C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141116:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006CA9C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141116:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006CA9C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141304:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/141601:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/141601:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007F7900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141601:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007F7900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141601:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007F7900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141601:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007F7900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141601:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007F7900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141601:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007F7900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141822:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005B98D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141822:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005B98D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141822:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005B98D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141822:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005B98D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141822:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005B98D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/141822:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005B98D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0511/142221:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/142221:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0511/142221:WARNING:channel.cc(358)] RawChannel write error
+[0511/142723:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/142753:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/142917:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/142946:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/144113:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/162823:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/163411:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0511/192438:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0511/192438:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/104008:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/110621:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/111226:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/111355:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/123702:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/124744:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/124744:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/124745:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/124745:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/145836:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0512/145836:WARNING:channel.cc(358)] RawChannel write error
+[0512/152406:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/152407:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/152612:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/152632:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/152632:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0512/152632:WARNING:channel.cc(358)] RawChannel write error
+[0512/152632:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0512/153447:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0512/153447:WARNING:channel.cc(358)] RawChannel write error
+[0512/161410:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/161410:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005F4AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/163209:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/163210:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/164602:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/164627:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005A37C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/164627:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005A37C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0512/164854:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/173209:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/173210:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/174004:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/180550:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/180552:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0512/181503:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/184617:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/184700:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/184700:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0512/184700:WARNING:channel.cc(358)] RawChannel write error
+[0512/184733:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0512/184734:WARNING:channel.cc(358)] RawChannel write error
+[0512/184734:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/184810:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/185300:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/190220:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/190738:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190738:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190740:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190740:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190741:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190741:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190741:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190741:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190741:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190742:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/190742:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/191709:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/191709:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0512/192334:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0512/195849:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0512/203807:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/114157:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/114931:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/114931:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0513/114931:WARNING:channel.cc(358)] RawChannel write error
+[0513/115004:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/115031:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/115111:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0513/115111:WARNING:channel.cc(358)] RawChannel write error
+[0513/115111:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/115534:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/121105:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/121546:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0513/122420:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/122442:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/122506:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/152433:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/152703:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/152703:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0037B8F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152703:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0037B8F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152703:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0037B8F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152703:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0037B8F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152703:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0037B8F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152703:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0037B8F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00571C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00571C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00571C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00571C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00571C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00571C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00571C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00571C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0513/152755:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/154017:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/155509:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/171251:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/171410:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/172451:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0513/194012:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0516/103158:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0516/120905:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0516/143904:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0516/144225:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0516/164741:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0516/164834:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0516/173750:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0516/180653:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/113828:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/121444:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0517/125439:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/131821:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/143057:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0517/143059:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0517/143107:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0517/143108:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0517/151339:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/153439:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/154622:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/161134:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/170858:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/172002:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/172241:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/173153:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/173153:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0517/173153:WARNING:channel.cc(358)] RawChannel write error
+[0517/174444:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/174756:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/180438:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0517/180438:WARNING:channel.cc(358)] RawChannel write error
+[0517/180438:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/193237:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/194047:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/194222:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0517/194811:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/195033:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0517/201256:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0518/115234:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/122055:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/165421:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0518/165422:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0518/173850:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/181433:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/181433:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0518/181433:WARNING:channel.cc(358)] RawChannel write error
+[0518/182750:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/183319:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/183319:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0518/200110:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/200316:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/200853:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/201303:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0518/201342:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0518/201414:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0519/112426:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0519/112427:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0519/114012:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0519/130350:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0519/131459:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0519/131459:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0519/135515:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0519/150208:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0519/152334:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0519/162420:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0519/162421:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0519/163457:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0519/163801:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0519/170531:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0519/184224:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0519/190515:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0520/131406:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0520/144008:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0520/144010:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0520/164249:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164249:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164249:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164254:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164254:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164254:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164256:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164256:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164256:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164256:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164257:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/164257:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0520/165601:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0520/175013:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002F51D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0520/175013:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002F51D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0520/175013:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002F51D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0520/175013:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002F51D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0520/175013:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002F51D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0520/175013:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002F51D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0520/190328:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0520/191014:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0520/200010:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/092459:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0523/093921:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/095834:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0046C8D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0523/095834:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0046C8D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0523/095834:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0046C8D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0523/095834:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0046C8D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0523/095834:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0046C8D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0523/095834:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0046C8D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0523/100508:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/105319:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0523/105319:WARNING:channel.cc(358)] RawChannel write error
+[0523/105525:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/111132:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0523/111132:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0523/111132:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0523/111222:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/124330:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/125326:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/154908:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/161132:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0523/164829:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/165431:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0523/174921:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/180041:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/180155:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/180321:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0523/181244:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0523/183207:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113506:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113511:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113516:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113521:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113526:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113531:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113536:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113541:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113546:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113551:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113556:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113601:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113606:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113611:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113616:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113622:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113627:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113632:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113637:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113642:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113647:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113652:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113700:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113705:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113710:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113715:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113720:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113802:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113807:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113812:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113817:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113822:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113827:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113832:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113837:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113842:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113847:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113852:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113857:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113902:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113907:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113912:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113917:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113922:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113927:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113932:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113937:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113942:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113947:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113952:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/113957:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114002:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114007:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114012:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114017:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114022:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114027:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114032:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114037:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114042:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114047:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114052:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114057:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114102:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114107:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114112:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114117:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114122:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114127:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114132:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114137:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114142:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114147:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114152:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114157:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114202:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114207:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114212:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114217:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114222:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114227:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114232:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114237:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114242:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114247:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114252:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114257:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114302:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114307:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114312:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114317:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114322:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114327:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114332:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114337:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114342:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114347:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114352:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114357:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114402:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114407:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114412:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114417:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114422:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114427:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114432:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114437:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114442:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114447:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114452:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114457:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114502:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114507:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114512:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114517:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114522:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114527:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114532:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114537:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114543:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114548:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114553:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114558:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114603:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114608:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114613:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114618:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114623:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114628:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114633:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114638:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114643:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114648:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114653:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114658:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114703:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114708:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114713:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114718:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114723:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114728:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114733:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114738:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114743:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114748:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114753:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114758:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/114803:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120213:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120218:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120223:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120228:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120233:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120238:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120243:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120248:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120253:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120259:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120304:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120309:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120314:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120319:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120324:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120329:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120334:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120339:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120344:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120349:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120354:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120359:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120404:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120409:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120414:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120419:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120424:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120429:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120434:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120439:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120444:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120449:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120454:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120459:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120504:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120509:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120514:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120519:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120524:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120529:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120534:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120539:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120544:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120549:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120554:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120559:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120604:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120609:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120614:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120619:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120624:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120629:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120634:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120639:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120644:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120649:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120654:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120659:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120704:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120709:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120714:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120719:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120724:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120729:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120734:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120739:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120744:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120749:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120755:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120800:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120805:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120810:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120815:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120820:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120825:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120830:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120835:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120840:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120845:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120850:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120855:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120900:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120905:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120910:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120915:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120920:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120925:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120930:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120935:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120940:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120945:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120950:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/120955:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121000:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121005:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121010:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121015:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121020:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121025:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121030:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121035:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121040:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121045:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121050:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121055:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121100:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121105:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121110:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121115:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121120:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121125:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121130:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121135:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121140:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121145:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121150:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121155:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121200:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121205:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121210:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121215:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121220:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121225:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121230:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121235:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121240:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121245:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121250:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121255:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121300:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121305:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121310:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121315:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121320:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121325:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121330:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121335:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121340:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121345:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121350:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121355:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121400:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121405:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121409:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121410:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121652:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121859:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121904:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/121908:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/122506:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/122608:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/133317:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/133317:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/133317:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/133317:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/133318:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/133318:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/134803:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/134808:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/134813:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/134818:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/134819:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/134819:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/134954:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/134959:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135004:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135009:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135014:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135019:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135024:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135029:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135034:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135039:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135044:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135049:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135054:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135059:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135104:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135109:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135114:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135119:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135124:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135129:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135134:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135140:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135145:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135150:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135155:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135200:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135205:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135210:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135215:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135220:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135225:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135230:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135235:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135240:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135245:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135250:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135255:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135300:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135305:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135310:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135315:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135320:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135325:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135330:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135335:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135340:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135345:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135350:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135355:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135400:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135405:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135410:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135415:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135420:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135425:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135430:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135435:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135440:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135445:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135450:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135455:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135500:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135505:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135510:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135515:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135520:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135525:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135530:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135535:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135540:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135545:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135550:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135555:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135600:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135605:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135610:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135615:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135620:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135625:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135630:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135635:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135641:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135646:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135651:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135656:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135701:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135706:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135711:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135716:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135721:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135726:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135731:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135736:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135741:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135746:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135751:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135756:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135801:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135806:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135811:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135816:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135821:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135826:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135831:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135836:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135841:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135846:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135851:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135856:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135901:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135906:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135911:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135916:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135921:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135927:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135932:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135937:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135942:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135947:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135952:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/135957:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/140002:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/140007:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/140012:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/140017:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142713:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142715:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142716:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142718:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142720:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142721:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142723:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142725:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142726:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142728:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142730:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142731:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142733:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142735:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142736:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142738:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142740:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142741:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142743:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142745:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142746:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142748:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142750:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142751:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142753:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142755:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142758:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142758:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142803:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142806:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142811:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142811:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142816:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142816:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142821:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142821:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142826:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142826:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142831:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142831:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142836:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142836:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142841:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142841:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142846:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142846:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142851:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142851:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142856:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142856:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142901:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142901:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142906:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142906:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142911:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142911:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142916:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142916:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142921:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142921:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142926:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142926:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142931:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142931:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142936:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142936:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142941:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142941:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142946:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142946:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142951:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142951:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/142956:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143001:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143006:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143011:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143016:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143021:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143026:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143031:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143036:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143041:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143046:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143051:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143055:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143055:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143055:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143100:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143100:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143100:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143105:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143105:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143105:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143110:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143110:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143110:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143115:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143115:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143115:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143120:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143120:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143120:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143125:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143125:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143125:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143130:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143130:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143130:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143135:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143135:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143135:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143137:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143140:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143140:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143140:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143142:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143145:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143145:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143145:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143147:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143150:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143150:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143150:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143152:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143155:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143155:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143155:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143157:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143200:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143200:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143200:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143202:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143205:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143205:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143205:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143207:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143210:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143210:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143210:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143212:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143215:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143215:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143215:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143217:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143220:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143220:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143220:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143222:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143225:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143225:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143225:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143227:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143230:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143232:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143232:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143237:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143237:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143237:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143237:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143242:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143242:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143242:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143247:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143247:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143247:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143252:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143252:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143252:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143257:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143257:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143257:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143302:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143302:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143302:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143307:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143307:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143307:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143312:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143312:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143312:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143317:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143317:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143317:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143322:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143322:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143322:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143327:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143327:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143327:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143332:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143332:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143332:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143337:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143337:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143337:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143342:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143342:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143342:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143347:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143347:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143347:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143352:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143352:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143357:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143357:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143402:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143402:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143407:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143407:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143412:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143412:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143417:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143417:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143422:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143422:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143427:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143427:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143432:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143432:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143437:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143437:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143442:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143442:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143447:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143447:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143452:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143452:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143457:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143457:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143502:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143502:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143507:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143507:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143512:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143512:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143517:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143517:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143522:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143522:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143527:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143527:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143532:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143532:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143537:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/143537:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145711:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145716:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145721:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145726:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145731:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145736:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145741:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145746:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145751:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145756:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145801:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145806:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145811:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145817:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145822:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145826:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0524/145827:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145839:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145844:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145849:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145854:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145859:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145904:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145909:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145930:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145935:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145940:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145945:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145950:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/145955:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150039:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150044:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150049:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150054:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150059:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150104:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150109:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150114:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150119:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150124:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150129:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150134:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150139:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150344:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150349:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150354:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150359:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150403:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0524/150418:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150423:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150428:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150433:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150438:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150443:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150448:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150453:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150458:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150503:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150508:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150513:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150518:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150523:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150528:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150533:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150538:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150543:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150549:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150554:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150559:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150604:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150609:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150614:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150619:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150624:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150629:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150634:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150639:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150644:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150649:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150654:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150659:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150704:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150713:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150718:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150723:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150728:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150733:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150738:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150743:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150748:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150837:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150843:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150848:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150850:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0524/150925:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/150930:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151027:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151032:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151101:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151106:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151111:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151112:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0524/151112:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0524/151318:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151323:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151328:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151333:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151338:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151343:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151348:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151353:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151358:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151403:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151408:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151413:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151445:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151450:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151455:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151500:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151505:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151510:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151515:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151520:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151525:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151530:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151535:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/151540:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0524/170654:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0524/170654:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0524/170655:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0525/121940:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0525/124208:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/131430:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/131603:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/132357:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0525/132357:WARNING:channel.cc(358)] RawChannel write error
+[0525/132419:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/132629:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/133456:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/133734:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/143313:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/143847:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/143849:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/143850:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/143850:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143922:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0070D0D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0525/143928:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/144833:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0525/144833:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/145437:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/145437:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0525/145437:WARNING:channel.cc(358)] RawChannel write error
+[0525/145504:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145506:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145509:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145511:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145514:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145516:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145519:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145538:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145543:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145548:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145553:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145558:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145603:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145608:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145613:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145618:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0525/145619:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0525/145619:WARNING:channel.cc(358)] RawChannel write error
+[0525/145619:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/150005:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/150829:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/151044:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0525/151044:WARNING:channel.cc(358)] RawChannel write error
+[0525/151318:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0525/151650:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/151801:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/152251:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/153023:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/153053:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/153548:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/155054:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/155504:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/155504:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0525/155504:WARNING:channel.cc(358)] RawChannel write error
+[0525/160858:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0525/161933:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/104621:WARNING:ipc_channel_win.cc(360)] Unable to create pipe "\\.\pipe\chrome.4368.0.205305042" in client mode: The system cannot find the file specified. (0x2)
+[0526/124920:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/124922:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/130628:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/131443:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00587178]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/131443:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00587178]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/131443:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00587178]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/131443:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00587178]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/155713:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/155942:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/172927:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/172927:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/172931:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/172931:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/173151:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/173151:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/175223:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/175223:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0526/180908:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/181033:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/181033:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004F5900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/181033:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004F5900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/181033:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004F5900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/181033:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004F5900]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/181643:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/181643:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0526/182708:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/183144:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/183542:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0526/183542:WARNING:channel.cc(358)] RawChannel write error
+[0526/183948:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/184127:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/184635:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/190308:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/190523:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0526/191618:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/193002:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/193835:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/193835:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047CF50]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/193835:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047CF50]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/193835:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047CF50]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/193835:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047CF50]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0526/195204:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/195639:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/195938:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/200157:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0526/200543:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0527/145430:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0527/173527:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0527/173702:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0527/174626:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0527/182524:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0527/182524:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0527/182524:WARNING:channel.cc(358)] RawChannel write error
+[0527/183721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E6F00]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0527/183721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E6F00]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0527/183721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E6F00]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0527/183721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E6F00]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0527/183721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E6F00]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0527/183721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E6F00]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0527/183721:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E6F00]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0530/112441:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0530/112441:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0530/123334:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0530/132005:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0530/151210:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005765F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0530/151210:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005765F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0530/151210:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005765F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0530/151210:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-005765F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0530/151630:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0530/151908:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0530/152005:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0530/161303:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0530/162449:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0530/162450:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0530/170205:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0531/103127:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0531/105808:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0531/105809:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0531/112332:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0531/112332:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0531/180938:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002AA6B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0531/180938:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002AA6B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0531/180938:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002AA6B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0531/180938:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002AA6B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0531/180938:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002AA6B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0531/180938:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-002AA6B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0531/190801:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004268C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0601/105734:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0601/122923:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0601/131018:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0601/131041:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0601/142914:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0601/144100:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0601/153602:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0601/153603:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0601/153604:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0601/164717:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0601/171823:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0601/172455:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0601/194528:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0601/194538:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0601/194539:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0601/194717:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0603/120425:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120430:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120435:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120440:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120445:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120450:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120455:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120500:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120505:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120510:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120515:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120520:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120525:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120530:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120535:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120540:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120545:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120550:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120555:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120600:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120605:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120610:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120615:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120620:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120625:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120630:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120635:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120640:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120645:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120650:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120655:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120700:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120705:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120710:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120715:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120720:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120725:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120730:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120735:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120740:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120745:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120750:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120755:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120800:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120805:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120810:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120815:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120820:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120825:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120830:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120835:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120840:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120845:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120850:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120855:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120900:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120905:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120910:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120915:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120920:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120925:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120930:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/120935:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/125005:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0603/125005:WARNING:channel.cc(358)] RawChannel write error
+[0603/130018:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/130104:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/130106:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/130334:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162706:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162839:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162839:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162846:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162846:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162858:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162858:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162905:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162905:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162912:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162912:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162919:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162919:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162926:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/162927:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/164037:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/164311:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/174052:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0603/181506:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/183149:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/191455:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0603/200127:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0603/225438:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/225443:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/225444:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/225448:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/225449:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/225453:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0603/225454:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0606/113310:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0606/113456:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/113456:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E90F8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0606/121654:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0606/130847:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0606/154938:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0606/162441:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0606/193534:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0606/193540:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0606/193540:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/022602:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/022603:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/022603:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/022608:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/022608:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/110245:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/110246:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/110246:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/122145:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/122150:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/122155:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/122200:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/122205:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/124653:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0607/124653:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0607/144327:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0607/173430:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0607/174421:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0607/181412:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0607/182531:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0607/182531:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0607/182531:WARNING:channel.cc(358)] RawChannel write error
+[0607/182807:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-009D0200]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182807:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-009D0200]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/182854:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004E92C8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/183616:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0607/184412:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0607/184511:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-003D9248]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/184511:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-003D9248]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/184511:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-003D9248]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/184511:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-003D9248]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/184511:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-003D9248]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/184511:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-003D9248]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/184511:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-003D9248]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/184511:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-003D9248]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/185420:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0607/191443:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0607/192326:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0607/192326:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00769BB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192326:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00769BB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192326:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00769BB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192326:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00769BB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192449:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-00717510]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192542:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0607/192658:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/192823:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-004DFF08]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0607/193055:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-007B1C98]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/115213:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0608/120008:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120008:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-0047C238]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0608/120555:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0608/120659:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0608/120659:WARNING:channel.cc(358)] RawChannel write error
+[0608/120659:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0608/121107:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0608/122327:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0608/133346:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0608/133346:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0608/133348:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0608/133348:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0608/143110:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0609/114141:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/114251:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/114329:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/114634:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/114953:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/115843:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/120005:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/120218:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0609/120218:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/122846:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/124548:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/124612:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/124846:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/124958:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/125139:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/130448:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0609/130448:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/130631:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/155644:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/161942:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0609/163955:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0610/130124:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0610/151020:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0610/154038:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0610/155859:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0610/164152:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0610/164249:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0610/164607:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0610/170252:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0610/191525:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0613/153829:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0613/153929:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0613/172047:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0613/172320:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0614/112810:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0614/114358:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114358:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114358:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114358:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114358:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114358:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114358:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114358:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114359:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114359:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114400:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/114400:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/154915:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0614/154915:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0614/160731:ERROR:ipc_channel_win.cc(465)] pipe error: 109
+[0614/160856:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/160908:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/160908:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/160909:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/160909:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/160909:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/160910:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/163517:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/163518:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/170529:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/170530:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0614/170531:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0615/104750:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/104942:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0615/104942:WARNING:channel.cc(358)] RawChannel write error
+[0615/104942:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/112915:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/113421:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0615/113845:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/113928:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/121033:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0615/131344:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/131455:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/131747:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/132050:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/142213:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/142213:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0615/142213:WARNING:channel.cc(358)] RawChannel write error
+[0615/142538:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/144323:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0615/145143:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0615/150246:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/150534:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/150649:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/151012:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0615/151012:WARNING:channel.cc(358)] RawChannel write error
+[0615/151012:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/151432:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/152214:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/152259:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/155843:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/165126:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/174320:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/174949:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/174949:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0615/174949:WARNING:channel.cc(358)] RawChannel write error
+[0615/180309:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/180741:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0615/181327:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0615/181327:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/181432:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/181542:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/181705:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/182326:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0615/182326:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0615/182326:WARNING:channel.cc(358)] RawChannel write error
+[0615/182653:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/112754:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/113449:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/115430:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/120020:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/120703:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/121328:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/123415:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/130401:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/131916:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/132144:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/133106:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0616/141218:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/141548:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/142152:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/142330:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/142846:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/143344:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/144628:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/145718:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/145723:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/145728:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/145733:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/145738:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/145743:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/145748:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150847:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150852:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150857:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150902:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150907:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150912:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150917:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150922:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150927:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150932:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150937:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150942:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150947:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150952:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/150957:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151002:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151007:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151012:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151017:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151022:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151027:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151032:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151037:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151042:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151047:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151052:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151057:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151102:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151107:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151112:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151117:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151122:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151127:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151132:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151137:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151142:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151147:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151152:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151157:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151202:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151207:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151212:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151217:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151222:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151227:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151232:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151237:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151242:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151247:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151252:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151257:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151302:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151307:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151312:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151317:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151322:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151327:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151332:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151337:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151342:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151347:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151352:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151357:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151402:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151407:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151413:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151418:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151423:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151428:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151433:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151438:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151443:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/151448:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/152457:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0616/152457:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/163406:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/163818:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/164012:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/164012:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0616/164012:WARNING:channel.cc(358)] RawChannel write error
+[0616/164101:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/164434:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/165808:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/182651:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0616/182732:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0616/184219:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/185207:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/185651:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0616/193136:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/193136:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0616/193141:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0617/103537:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/110106:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0617/115109:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/115300:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/115806:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/120319:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/125815:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/131258:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/132148:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/132148:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0617/132148:WARNING:channel.cc(358)] RawChannel write error
+[0617/132342:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/151015:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/151145:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/153235:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/153600:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/171112:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/171350:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/172029:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/174032:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/175524:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/175823:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/182849:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/183025:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0617/183324:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0620/102456:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102501:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102506:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102511:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102516:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102521:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102526:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102531:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102537:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102542:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102547:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102552:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102557:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102602:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102607:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102612:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102617:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102622:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102627:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102632:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102637:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102642:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102647:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102652:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102657:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102702:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102707:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102712:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102717:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102722:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102727:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102732:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102737:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102742:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102747:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102752:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102757:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102802:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102807:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102812:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102817:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102822:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102827:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102832:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102837:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102842:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102847:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102852:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102857:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102902:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102907:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102912:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102917:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102922:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102927:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102932:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102937:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102942:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102947:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102952:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/102957:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103002:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103007:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103012:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103017:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103022:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103027:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103032:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103037:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103042:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103047:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103052:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103057:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103102:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103107:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103112:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103117:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103122:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103127:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103132:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103137:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103142:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103147:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103152:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103157:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103202:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103207:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103212:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103217:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103222:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103227:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103232:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103237:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103242:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103247:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103252:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103257:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103303:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103308:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103313:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103318:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103323:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103328:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103333:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103338:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103343:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103348:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103353:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103358:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103403:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103408:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103413:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103418:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103423:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103428:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103433:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103438:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103443:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103448:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103453:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103458:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103503:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103508:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103513:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103518:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103523:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103528:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103533:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103538:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103543:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103548:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103553:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103558:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103603:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103608:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/103613:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/104010:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0620/105004:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105009:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105014:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105019:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105024:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105029:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105034:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105039:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105044:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105049:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105054:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105059:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105104:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105109:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105114:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105119:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105124:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105129:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105134:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105139:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105144:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105149:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105150:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105150:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105535:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105540:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105545:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105550:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105555:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105600:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105605:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105610:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105615:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105620:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105625:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105649:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105654:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105659:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105704:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105709:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105714:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105719:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105724:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105729:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105734:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105739:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105744:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105749:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105754:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105759:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105804:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105809:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105814:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105819:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105824:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105829:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105834:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105839:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105844:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105849:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105854:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105859:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105904:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105909:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105914:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105919:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105924:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105929:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105934:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105939:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105944:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105949:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105954:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/105959:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110004:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110009:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110014:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110019:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110024:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110029:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110034:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110039:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110044:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110049:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110054:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110059:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110104:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110109:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110114:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110119:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110124:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110129:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110134:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110139:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110144:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110149:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110154:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110159:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110204:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110209:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110214:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110219:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110224:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110229:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110234:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/110239:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/111455:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0620/111627:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0620/125410:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/125415:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/125417:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/131324:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/131948:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0620/132329:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0620/144423:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0620/144423:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006918E0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0620/144423:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006918E0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0620/144423:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006918E0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0620/144423:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006918E0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0620/144423:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006918E0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0620/144423:ERROR:gles2_cmd_decoder.cc(13099)] [.RenderWorker-006918E0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0620/154336:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+[0620/155040:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/155040:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/155042:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/155240:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/155243:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/155245:WARNING:event.cc(762)] DomCode::NONE keycode=255
+[0620/155918:ERROR:ipc_channel_win.cc(207)] pipe error: 109

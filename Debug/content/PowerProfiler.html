@@ -1,0 +1,462 @@
+﻿<!DOCTYPE html />
+<html lang="en">
+<head>
+    <title id='Description'> Power Profiler </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+       
+      <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">   
+      <link rel="stylesheet" href="jqwidgets/styles/jqx.base.css" type="text/css" />
+	  <link rel="stylesheet" href="jqwidgets/styles/jqx.classic.css" type="text/css" />
+     <link rel="stylesheet" href="jqwidgets/styles/jqx.shinyblack.css" type="text/css" />
+     <link rel="stylesheet" type="text/css" href="css/home.css" />
+      <link rel="stylesheet" type="text/css" href="bootstrap/css/jquery.dataTables.css" />
+       <link rel="stylesheet" type="text/css" href="css/jquery.css" />
+    <style>
+
+    #chartMain {
+      width:100%;
+        
+        overflow-y: hidden;
+      height:calc(100% - 100px);
+      background: black; /*#3F51B5*/
+            opacity: 1;
+            color: white;
+            position:relative;
+    }
+
+    #chartContainer {
+      width:100%;
+      overflow-x:scroll;
+      overflow-y: hidden;
+      height:100%;
+      background: black; /*#3F51B5*/
+            opacity:1;
+            color: white;
+            position: absolute;
+    }
+
+    #selectorContainer {
+      width:100%;
+      height:20%;
+      background: black; /*#3F51B5*/
+            opacity: 0.85;
+            color: white;
+    }
+    #resizable1 
+{
+    width:50%;
+      height:84%;
+    	
+     top:9.2%;
+     left :10%;
+
+   
+
+	 border-left: solid red;
+	  border-right: solid red;
+	z-index:1;
+	position: absolute;
+}	
+
+    .jqx-chart-label-text, .jqx-chart-legend-text, .jqx-chart-axis-description, .jqx-chart-title-text, .jqx-chart-title-description        
+    {            fill : #ffffff;
+                 color: #ffffff;       
+    }
+
+    .jqx-chart-axis-text {
+       fill: #666666;  
+       color: #666666;  
+    }
+    .jqx-chart-legend-text {
+            font-size:18px;
+                cursor: pointer;
+                 
+        }
+        #svgChart {
+            border:1px solid white;
+        }
+       #svgChart g rect {
+          width:15px;
+            height:15px;
+            border-color:black;
+              cursor: pointer;
+        }
+		rect{
+		stroke:black;
+		}
+        .selected {
+            display:none;
+        }
+ </style>
+    <script type="text/javascript" src="scripts/jquery-2.0.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+     <script type="text/javascript" src="js/jqueryui.js"></script>
+    <script type="text/javascript" src="jqwidgets/jqxcore.js"></script>
+    <script type="text/javascript" src="jqwidgets/jqxdata.js"></script>
+    <script type="text/javascript" src="jqwidgets/jqxdraw.js"></script>
+    <script type="text/javascript" src="jqwidgets/jqxchart.core.js"></script>
+    <script type="text/javascript" src="jqwidgets/jqxmenu.js"></script>
+    <script type="text/javascript" src="jqwidgets/jqxchart.rangeselector.js"></script>
+	<script type="text/javascript" src="jqwidgets/jqxchart.jqxrangeselector.js"></script>
+    <script src="dispatch.js" type="text/javascript"></script>
+    <script src="processoperations.js" type="text/javascript"></script>
+    <script src="filepath.js" type="text/javascript"></script> 
+    <script src="fileoperations.js" type="text/javascript"></script> 
+    <script src="PowerProfiler.js" type="text/javascript"></script> 
+    <script src="databind.js" type="text/javascript"></script> 
+	 
+     <script type="text/javascript">
+
+         $(document).ready(function () {
+             var indexarray = [];
+             var anotherArray = [];
+             var timeVal1;
+             var timeVal2;
+             var i = 0;
+             var j = 0;
+             var originalWidth;
+             // prepare the data 
+             $(".dropdown").on("mouseenter", function () {
+                 var scope = angular.element($("#mainMenu")).scope();
+                 scope.$apply();
+             });
+
+             $("#resizable1").resizable({
+                 handles: "e,w", containment: "parent"
+             })
+             initChart();
+
+             function getClosestLeft(clientX) {
+                 var x1 = null;
+                 // Search for closest left side x-axis graph element.
+                 indexarray.map(function (obj) {
+                     if (obj.x >= clientX) {
+
+                         if (x1 == null) {
+                             x1 = obj;
+                             // alert(JSON.stringify(obj));
+                         }
+                         //else if (obj.time > x1.time) {
+                         //    x1 = obj;
+                         //   // alert(JSON.stringify(obj));
+                         //}
+                     }
+                 });
+                 return x1;
+             }
+
+             function getClosestRight(clientX) {
+                 var x2 = null;
+                 // Search for closest left side x-axis graph element.
+                 indexarray.map(function (obj) {
+                     if (obj.x >= clientX) {
+                         //alert(JSON.stringify(obj));
+                         if (x2 == null) {
+                             x2 = obj;
+                         }
+                         //else if (obj.time < x2.time) {
+                         //    x2 = obj;
+                         //   // alert(JSON.stringify(obj));
+                         //}
+                     }
+                 });
+                 return x2;
+             }
+
+             function getBounds() {
+
+                 var el = $("#resizable1");
+                 var left = Math.floor($(el).offset().left);
+                 var right = Math.floor(left + $(el).width());
+
+                 var bounds = {
+                     left: left,
+                     right: right,
+                     x1: getClosestLeft(left),
+                     x2: getClosestRight(right)
+                 };
+
+                 return bounds;
+             }
+
+             var resizeTimer = null;
+             $("#resizable1").resize(function (e) {
+
+                 if (resizeTimer != null) {
+                     clearTimeout(resizeTimer);
+                 }
+
+                 resizeTimer = setTimeout(function () {
+                     var bounds = getBounds();
+                     $("#span1").text(JSON.stringify(bounds, null, 2));
+                     timeVal1 = JSON.stringify(bounds.x1.time);
+                     timeVal2 = JSON.stringify(bounds.x2.time);
+
+                 }, 200);
+
+             });
+
+             $("#btnPauseResume").click(function () {
+                 // $('#chartContainer').jqxChart({width : 6500});
+                 //$('#chartContainer').jqxChart('refresh');
+                 data();
+                 // $("#span").text(JSON.stringify(chartData));
+             });
+
+             function data() {
+                 indexarray = [];
+                 var temp = [];
+                 var element = $("svg g");
+                 $(element).find(".jqx-chart-axis-text").each(function (index) {
+                     var obj = {};
+                     obj.x = $(this).attr("x");
+                     obj.y = $(this).attr("y");
+                     obj.time = $(this).text();
+                     temp.push(obj);
+                     $("#span").text(JSON.stringify(temp));
+
+                 });
+
+                 var maxy = null;
+                 var miny = null;
+                 temp.some(function (obj) {
+                     if (maxy == null) {
+                         maxy = obj.y;
+                         // alert('1' + maxy);
+                     }
+                     if (miny == null) {
+                         miny = obj.y;
+                         // alert('2' + miny);
+                     }
+                     if (obj.y > maxy) {
+                         maxy = obj.y;
+                         // alert('3' + maxy);
+                     }
+                     if (obj.y < miny) {
+                         miny = obj.y;
+                         // alert('4' + miny);
+                     }
+                     if (maxy > miny) {
+                         return true;
+                     }
+                     return false;
+                 });
+                 jQuery.map(temp, function (obj) {
+                     if (miny <= obj.y) {
+                         indexarray.push(obj);
+
+
+                     }
+                 });
+                 indexarray.pop();
+
+                 if (i == 0) {
+                     $("#span").text(JSON.stringify(indexarray));
+                     anotherArray = indexarray;
+
+                     i++;
+                 }
+             }
+
+             $("#zoomIn").on('click', function () {
+
+                 var w = $("#chartContainer").width();
+                 if (j == 0) {
+                     originalWidth = w;
+                     j++;
+                 }
+                 var ow = w + 100;
+                 if (ow > 4096) {
+                     alert("its the maximum value");
+                 } else {
+                     $("#chartContainer").width(ow);
+                     $("#svgChart").width(ow);
+                     $("#chartContainer").jqxChart('refresh');
+
+                     var a = 4096 - ow;
+                     var b = 4096 - originalWidth;
+                     var c = a / b;
+                     c *= 100;
+                     var final = 100 - Math.round(c);
+                     $("#zoomRes").val(final + '%');
+
+
+                 }
+             });
+
+             $("#zoomOut").on('click', function (data) {
+
+                 var w = $("#chartContainer").width();
+                 var ow = w - 100;
+                 if (originalWidth < w) {
+
+                     $("#chartContainer").width(ow);
+                     $("#svgChart").width(ow);
+                     $("#chartContainer").jqxChart('refresh');
+                     var a = 4096 - ow;
+                     var b = 4096 - originalWidth;
+                     var c = a / b;
+                     c *= 100;
+                     var final = 100 - Math.round(c);
+                     $("#zoomRes").val(final + '%');
+                 }
+                 else {
+                     alert("its the minmum zoom");
+                 }
+
+
+
+
+             });
+
+
+             $("#wMod").on('click',
+                 function () {
+                     event.preventDefault();
+                     if (toggleMod == 1) {
+                         $("path[stroke='green']").css("display", "none");
+                         toggleMod = 0;
+                     }
+                     else {
+                         $("path[stroke='green']").css("display", "inline");
+                         toggleMod = 1;
+                     }
+                 });
+             $("#mcuPow").on('click',
+              function () {
+                  event.preventDefault();
+                  if (toggleMcu == 1) {
+                      $("path[stroke='blue']").css("display", "none");
+                      toggleMcu = 0;
+                  }
+                  else {
+                      $("path[stroke='blue']").css("display", "inline");
+                      toggleMcu = 1;
+                  }
+              });
+             $("#sysPow").on('click',
+              function () {
+                  event.preventDefault();
+                  if (toggleSys == 1) {
+                      $("path[stroke='orange']").css("display", "none");
+                      toggleSys = 0;
+                  }
+                  else {
+                      $("path[stroke='orange']").css("display", "inline");
+                      toggleSys = 1;
+                  }
+              });
+             $("#wifiPow").on('click',
+              function () {
+                  event.preventDefault();
+                  if (toggleWifi == 1) {
+                      $("path[stroke='yellow']").css("display", "none");
+                      toggleWifi = 0;
+                  }
+                  else {
+                      $("path[stroke='yellow']").css("display", "inline");
+                      toggleWifi = 1;
+                  }
+              });
+             var toggleMod = 1;
+             var toggleWifi = 1;
+             var toggleSys = 1;
+             var toggleMcu = 1;
+
+         });
+    </script>
+</head>
+<body ng-app="powerProfiler">
+    <div class="page"  id="mainMenu" ng-controller="menuCtrlr">
+            <div class="menu">
+                <ul class="nav navbar-nav navmenu pull-left">
+                    <li class="dropdown">
+                        <button class="btn btn-sm" type="button" data-toggle="dropdown" data-target="File_Menu"><strong>FILE</strong></button>
+                        <ul class="dropdown-menu" id="File_Menu">
+                            <li ng-class="{'disabled': data.capture}" ng-click="open()"><a href="#"> <span class="glyphicon glyphicon-folder-open pull-right"></span><strong>Open</strong></a></li>
+                            <li ng-class="{'disabled': data.close}" ng-click="close()"><a href="#"> <span class="glyphicon glyphicon-folder-close pull-right"></span><strong>Close</strong></a></li>
+                            <li ng-class="{'disabled': !data.fileopen}"><a href="#"><span class="glyphicon glyphicon-floppy-disk pull-right"></span><strong>Save</strong></a></li>
+                            <li ng-click="exit()"><a href="#"><span class="glyphicon glyphicon-off pull-right"></span><strong>Exit</strong></a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <button class="btn btn-sm" type="button" data-toggle="dropdown" data-target="Target_Menu"><strong>TARGET</strong></button>
+                        <ul class="dropdown-menu" id="Target_Menu">
+                            <li ng-class="{'disabled': data.capture}" ng-click="start()"><a href="#"> <span class="glyphicon glyphicon-play pull-right"></span><strong>Start</strong></a></li>
+                            <li ng-class="{'disabled': !data.capture}" ng-click="stop()"><a href="#"> <span class="glyphicon glyphicon-stop pull-right"></span><strong>Stop</strong></a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown" ng-hide="true">
+                        <button class="btn btn-sm" type="button" data-toggle="dropdown" data-target="Source_Menu"><strong>SOURCE</strong></button>
+                        <ul class="dropdown-menu" style="width:200px !important;" id="Source_Menu">
+                            <li ng-class="{'disabled': data.capture}" ng-click="toggleSource('mcu')"><a href="#"><span ng-show="data.mcu" class="glyphicon glyphicon-ok pull-right"></span><strong>MCU Current</strong></a></li>
+                            <li ng-class="{'disabled': data.capture}" ng-click="toggleSource('wyzbee')"><a href="#"><span ng-show="data.wyzbee" class="glyphicon glyphicon-ok pull-right"></span><strong>WyzBee Current</strong></a></li>
+                            <li ng-class="{'disabled': data.capture}" ng-click="toggleSource('wifi')"><a href="#"><span ng-show="data.wifi" class="glyphicon glyphicon-ok pull-right"></span><strong>WiFi Current</strong></a></li>
+                            <li ng-class="{'disabled': data.capture}" ng-click="toggleSource('system')"><a href="#"><span ng-show="data.system" class="glyphicon glyphicon-ok pull-right"></span><strong>System Current</strong></a></li>
+                        </ul>
+                    </li>
+
+                    <li style="display:inline-block; margin-left:20px;">
+                        <button id="btnStart" class="btn btn-sm btn-default" type="button" ng-hide="data.capture" ng-class="{'disabled': data.capture}" ng-click="start()">
+                            <span class="glyphicon glyphicon-play" ng-class="{'disabled': data.capture}"></span>
+                        </button>
+                        <button id="btnStop" class="btn btn-sm btn-default" type="button" ng-show="data.capture" ng-class="{'disabled': !data.capture}" ng-click="stop()">
+                            <span ng-class="{'disabled': !data.fileopen}" class="glyphicon glyphicon-stop" ng-class="{'disabled': !data.capture}"></span>
+                        </button>
+                        <button id="btnSave" class="btn btn-sm btn-default" type="button" ng-class="{'disabled': !data.fileopen}" ng-click="save()">
+                            <span ng-class="{'disabled': !data.fileopen}" class="glyphicon glyphicon-floppy-disk"></span>
+                        </button>
+                    </li>
+
+                    <li style="display:inline-block; margin-left:20px;" class="btn-group" data-toggle="buttons">
+                        <label id="timeSec" class="btn btn-sm btn-default" ng-class="{'active':data.timeInSec, 'disabled':data.capture}" ng-click="toggleTime('sec')">
+                            <input type="radio" id="q156" name="time" ng-model="data.timeInSec" ng-value="true" /> secs
+                        </label>
+                        <label id="timeMilli" class="btn btn-sm btn-default" ng-class="{'active': !data.timeInSec, 'disabled':data.capture}" ng-click="toggleTime('milli')">
+                            <input type="radio" id="q157" name="time" ng-model="data.timeInSec" ng-value="false" /> milli
+                        </label>
+                    </li>
+                    <li style="display:inline-block; margin-left:20px;" class="btn-group" data-toggle="buttons">
+                      <button id="btnPauseResume" value="Pause" style="position:absolute; display:inline-block;"><strong>Pause</strong>
+
+                      </button>
+                     <button id="zoomIn" style=" margin-left:60px;">
+                            <span class="glyphicon glyphicon-plus-sign"></span>
+                        </button>
+                       
+                         <button id="zoomOut" style="">
+                            <span class="glyphicon glyphicon-minus-sign"></span>
+                        </button>
+                       
+                        <input  id='zoomRes' type="text" readonly="true" style="width:40px;height:25px !important;"/>
+                           
+                    </li>
+                  </ul>
+                    <div>
+                    </div>
+             </div>   <!--menu-->
+        <div id="chartMain">
+            <div id='chartContainer'>
+            </div>
+           <div id="resizable1">
+		     <span id="span"></span>
+              <span id="span1"></span>
+		</div>
+            
+        </div>
+		<div style="position:absolute;">
+              <button id="wMod" style="background-color:green">WyzBee Module</button>
+			  <button id="mcuPow" style="background-color:blue">MCU POWER</button>
+			  <button id="sysPow" style="background-color:orange">SYSTEM POWER</button>
+			  <button id="wifiPow" style="background-color:yellow">WIFI POWER</button>
+
+
+
+         </div>
+	</div>
+</body>
+</html>

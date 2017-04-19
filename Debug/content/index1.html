@@ -1,0 +1,300 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <!-- META -->
+    <title>Javascript + HTML + CSS3: Windows Metro Tiles </title>
+    <meta name="author" content="Tim Holman">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Javascript + HTML + CSS3: Windows Metro Tiles">
+    <!-- CSS (not required to use tile-js, just used in my demo ) -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/jquery.ui-1.11.4.css">
+
+    <style type="text/css">
+        body {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            overflow: hidden;
+            height: 100%;
+            width: 100%;
+            max-height: 100%;
+            max-width: 100%;
+            background: white;
+        }
+
+        #framecontent {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            width: 25%; /*Width of frame div*/
+            max-height: 800px;
+            height: 100%;
+            overflow: hidden; /*Disable scrollbars. Set to "scroll" to enable*/
+            background: black; /*#3F51B5*/
+            opacity: 0.85;
+            color: white;
+        }
+
+        #maincontent {
+            position: fixed;
+            top: 0;
+            left: 25%; /*Set left value to WidthOfFrameDiv*/
+            right: 0;
+            bottom: 0;
+            height: 100%;
+            width: 75%;
+            overflow: auto;
+            background: black; /*#3F51B5*/
+            opacity: 0.85;
+        }
+
+        h1, h2, h3, h4 h5 {
+            font: 'Segoe UI', Tahoma, sans-serif;
+            font-weight: 500;
+            color: white;
+        }
+
+        h4 {
+            font-size: 15px;
+        }
+
+        img {
+            width: 710px;
+            height: 280px !important;
+        }
+
+        .container {
+            width: 100%;
+            padding: 0px 0px 0px 0px;
+        }
+
+        .innertube {
+            margin: 0px 0px 0px 0px; /*Margins for inner DIV inside each DIV (to provide padding)*/
+            height: 100%;
+        }
+
+        * html body { /*IE6 hack*/
+            padding: 0 0 0 200px; /*Set value to (0 0 0 WidthOfFrameDiv)*/
+        }
+
+        * html #maincontent { /*IE6 hack*/
+            height: 100%;
+            width: 75%;
+        }
+
+        .carousel-inner > .item > img,
+        .carousel-inner > .item > a > img {
+            height: 100%;
+        }
+
+        #codeGeneratorWindow td {
+            padding-left:5px;
+            padding-right:5px;
+        }
+
+        #codeGeneratorWindow td .cg-label {
+            white-space: nowrap;
+        }
+
+        .ui-dialog-content .ui-dialog {
+           margin: 0px;
+           padding:0px;
+        }
+
+    </style>
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="scripts/jquery.ui-1.11.4.js"></script>
+    <script src="dispatch.js" type="text/javascript"></script>
+    <script src="processoperations.js" type="text/javascript"></script>
+    <script src="fileoperations.js" type="text/javascript"></script>
+    <script src="filepath.js" type="text/javascript"></script>
+    <script src="recentpath.js" type="text/javascript"></script>
+    <script src="databind.js" type="text/javascript"></script>
+    <script src="documentevents.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        
+
+        clickfun();
+    </script>
+
+</head>
+
+<body ng-app="wyzbee">
+
+    <div id="framecontent">
+        <br />
+        <div class="innertube">
+            <div ng-controller="recentPathsCtrlr" id="recentPaths">
+                <br />
+                <br />
+                <span class="glyphicon glyphicon-triangle-right" style="font-size: 25px; color: white; opacity: 0.4; padding: 0px 0px 0px 0px;"></span>
+                <span style="font-size: 30px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">WyzBee Workbench</span>
+                <hr style="margin: 0px 40px 0px 30px; border-color: #ffe57f; border-width: 3px; padding: 0px 0px 0px 0px;" />
+                <br />
+                <br />
+                <br />
+                <h4 style="margin: 0px 40px 0px 25px;">Start</h4>
+                <a id="new" style="margin: 10px 40px 10px 40px; color: #ffff8d; display: block; font-size: 12px;" href=" #">New Project</a>
+                <a id="openProject" style="margin: 10px 40px 10px 40px; color: #ffff8d; display: block; font-size: 12px;" href=" #">Open Project</a>
+                <a id="codeanalysis" style="margin: 10px 40px 10px 40px; color: #ffff8d; display: block; font-size: 12px;" href="#">Generate Code</a>
+                <h4 style="margin: 0px 40px 0px 25px;">Recent</h4>
+                <a style="margin: 10px 40px 10px 40px; color: #ffff8d; display: block; font-size: 12px;" href=" #" ng-show="(data.recentPaths.length > 0)" ng-click="launchApp(0)">{{getRecentPaths(0)}}</a>
+                <a style="margin: 10px 40px 10px 40px; color: #ffff8d; display: block; font-size: 12px;" href=" #" ng-show="(data.recentPaths.length > 1)" ng-click="launchApp(1)">{{getRecentPaths(1)}}</a>
+                <a style="margin: 10px 40px 10px 40px; color: #ffff8d; display: block; font-size: 12px;" href=" #" ng-show="(data.recentPaths.length > 2)" ng-click="launchApp(2)">{{getRecentPaths(2)}}</a>
+                <a style="margin: 10px 40px 10px 40px; color: #ffff8d; display: block; font-size: 12px;" href=" #" ng-show="(data.recentPaths.length > 3)" ng-click="launchApp(3)">{{getRecentPaths(3)}}</a>
+                <a style="margin: 10px 40px 10px 40px; color: #ffff8d; display: block; font-size: 12px;" href=" #" ng-show="(data.recentPaths.length > 4)" ng-click="launchApp(4)">{{getRecentPaths(4)}}</a>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="maincontent">
+            <div id="container">
+                <div class="container" style="margin-top:25px; height:40%;">
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                        </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner" role="listbox" style="width: 100%;">
+                            <div class="item active">
+                                <img src="images/slide1.png" alt="Chania">
+                            </div>
+
+                            <div class="item">
+                                <img src="images/slide2.png" alt="Chania">
+                            </div>
+
+                            <div class="item">
+                                <img src="images/avatar.png" alt="Flower">
+                            </div>
+
+                            <div class="item">
+                                <img src="images/slide3.png" alt="Flower">
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+
+                <div style="margin-bottom: 15px;margin-top: 15px;height:10%;">
+                <span style="font-size: 20px; padding-bottom: 0px; display: block; color: white;">Applications </span>
+                <hr style="margin: 0px 0px 0px 0px; border-color: #ffff8d; border-width: 3px; padding-bottom: 0px; padding-top: 0px; width: 110px; float: left;" />
+                </div>
+                <div id="metro-array" style="display: inline-block;height:40%;">
+                    <!-- Simple grid for the demo! None of these styles are required, thats just how I've styled my tiles -->
+                    <!-- The only important thing is class="metro-tile" -->
+                    <div style="width: 230px; height: 230px; float: left;">
+                        <a id="POWER" class="metro-tile" style="cursor: pointer; width: 230px; height: 110px; display: block; background-color: #c51162; color: #fff; margin-bottom: 10px;">
+                            <span class="glyphicon glyphicon-off" style="font-size: 50px; color: white; padding: 20px 20px 0px 70px;"></span>
+                            <p style="padding: 0px 0px 0px 40px;">Power Profiler</p>
+                        </a>
+                        <a id="IOT" class="metro-tile" style="cursor: pointer; width: 230px; height: 110px; display: block; background-color: #2196f3; color: #fff;">
+                            <span class="glyphicon glyphicon-record" style="font-size: 50px; color: white; padding: 20px 20px 0px 70px;"></span>
+                            <p style="padding: 0px 0px 0px 40px;">IOT Debugger</p>
+                        </a>
+                    </div>
+                    <div style="width: 230px; height: 230px; float: left; margin-left: 10px">
+                        <a id="WYZBEE" class="metro-tile" style="cursor: pointer; width: 230px; height: 230px; display: block; background-color: deepskyblue; color: #fff">
+                            <span class="glyphicon glyphicon-cloud" style="font-size: 100px; color: white; padding: 60px 20px 0px 50px;"></span>
+                            <p style="padding: 0px 0px 0px 40px;">WyzBee Cloud</p>
+                        </a>
+                    </div>
+                    <div style="width: 230px; height: 230px; float: left; margin-left: 10px">
+                        <a class="metro-tile" style="cursor: pointer; width: 230px; height: 110px; display: block; background-color: #4a148c; color: #fff; margin-bottom: 10px;">
+                            <span class="glyphicon glyphicon-book" style="font-size: 50px; color: white; padding: 20px 20px 0px 70px;"></span>
+                            <p style="padding: 0px 0px 0px 80px;">Docs</p>
+                        </a>
+                        <a class="metro-tile" style="cursor: pointer; width: 110px; height: 110px; margin-right: 10px; display: block; float: left; background-color: #ffd740; color: #fff;">
+                            <br />
+                            <span class="glyphicon glyphicon-shopping-cart" style="font-size: 40px; color: white; padding: 0px 20px 0px 30px;"></span>
+                            <p style="color: white; padding: 0px 0px 0px 30px;">Store </p>
+                        </a>
+                        <a class="metro-tile" style="cursor: pointer; width: 110px; height: 110px; display: block; background-color: #2196f3; float: right; color: #fff;">
+                            <span class="glyphicon glyphicon-knight" style="font-size: 50px; color: white; padding: 20px 20px 0px 20px;"></span>
+                            <p style="padding: 0px 0px 0px 20px;">Micro IDE</p>
+
+                        </a>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <script src="js/tileJs.js" type="text/javascript"></script>
+
+    <div id="codeGeneratorWindow" title="Code Generator" ng-controller="generateCodeCtrlr" style="display: none">
+        <table style="width:100%">
+            <tr>
+                <td class="cg-label">Proto File</td>
+                <td>: </td>
+                <td>
+                    <input readonly="true" type='text' id='protoFilePath' ng-model="data.protoFile"  /></td>
+                <td>
+                    <input type='button' value='Browse' id='selectProtoFilePath' /></td>
+            </tr>
+            <tr ng-show="!data.protoFile">
+                <td colspan="2" />
+                <td colspan="2">
+                    <i style="color:red;font-size:11px" >Proto File is empty</i>
+                </td>
+            </tr>
+            <tr ng-show="data.protoFile">
+                <td style="column-span:all;height:10px;"/>
+            </tr>
+            <tr>
+                <td class="cg-label">Output Directory</td>
+                <td>: </td>
+                <td>
+                    <input readonly="true" type='text' id='outputDirPath' ng-model="data.outDir" /></td>
+                <td>
+                    <input type='button' value='Browse' id='selectOutputDirPath' /></td>
+            </tr>
+            
+            <tr  ng-show="!data.outDir">
+                <td colspan="2" />
+                <td colspan="2">
+                    <i style="color:red;font-size:11px">Output Directory is empty</i>
+                </td>
+            </tr>
+            <tr ng-show="data.outDir">
+                <td style="column-span:all;height:10px;"/>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <input style="width:100%" type='button' value='Generate Code' id='generateCode' ng-disabled="!data.protoFile||!data.outDir"  ng-click="generateCode()"/></td>
+            </tr>
+        </table>
+        <!--<div style="height:100px;width:100%;padding-top:10px"> background:#000; color:#fff;-->
+            <textarea wrap='on' style="margin-top:10px;overflow:auto; resize: none; height:100px; width:100%; font-family:'Courier New'" id="genCodeConsole"/>
+        <!--</div>-->
+    </div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
