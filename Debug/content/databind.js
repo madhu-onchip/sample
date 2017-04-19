@@ -10,7 +10,7 @@ app.controller('menuCtrlr', function ($scope) {
         system: false,
         wyzbee: true,
         timeInSec: false,
-        close: true
+        close: true,
 
     };
 
