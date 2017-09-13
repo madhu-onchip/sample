@@ -11,8 +11,6 @@ app.controller('menuCtrlr', function ($scope) {
         wyzbee: true,
         timeInSec: false,
         close: true,
-       
-
     };
 
     // File menu options
